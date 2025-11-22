@@ -95,3 +95,21 @@ font-weight: bolder;
     height: 10rem;
 
 }
+.afback{
+     background-color: #f3e8d2;
+     background-color: #f3e8d2;
+    height: 15rem;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    justify-items: center;
+}
+.af1{
+    justify-content: center;
+    display: flex;
+    font-weight: bold;
+    font-size: 1.5rem;
+    text-decoration: dotted;
+    
+}
